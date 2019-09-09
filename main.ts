@@ -12,6 +12,5 @@ namespace test{
     //% block="Enter a string to print %name"
     export function showname(name: string) {
         basic.showString(name);
-        return true;
     }
 }
