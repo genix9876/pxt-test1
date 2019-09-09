@@ -11,6 +11,6 @@ namespace test{
     //% blockId=printName weight=70 blockGap=30
     //% block="Enter a string to print %name"
     export function showname(name: string) {
-        basic.showString(name);
+        basic.showString(name)
     }
 }
